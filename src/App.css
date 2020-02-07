@@ -1,0 +1,12 @@
+img.pic1 {
+  position: absolute;
+  height: 100vh;
+  width: 50vw;
+}
+
+img.pic2 {
+  position: absolute;
+  margin-left: 50vw;
+  height: 100vh;
+  width: 50vw;
+}
